@@ -1,2 +1,2 @@
-# JS-SipuCommons
-Javascript Commons function.
+# JS-SipuBoilerPlate
+Javascript BoilerPlate javascript file.
